@@ -20,7 +20,7 @@ public class No1260 {
 		input();
 		dfs(v-1);
 		for(int i=0; i<n; i++) {
-			check[i] = false;
+			check[i] = false; 
 		}
 		sb.append("\n");
 		bfs(v-1);
