@@ -8,8 +8,8 @@ import java.util.Collections;
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
-
-public class No1260 {
+ 
+public class No1260 { 
 	static int n;
 	static int m;
     static int v;
