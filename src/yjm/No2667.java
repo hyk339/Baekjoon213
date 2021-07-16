@@ -19,7 +19,7 @@ public class No2667 {
 		StringBuilder sb = new StringBuilder();
 		//1. 값 입력받기
 		input();
-		
+ 		
 		//2. 탐색(Bfs,dfs)
 		for(int i=0; i<n; i++) {
 			for(int j=0; j<n; j++) {
