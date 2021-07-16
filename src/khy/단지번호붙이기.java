@@ -6,7 +6,7 @@ import java.util.Collections;
 import java.io.BufferedReader;
 import java.io.IOException;
 
-public class ´ÜÁö¹øÈ£ºÙÀÌ±â {
+public class ë‹¨ì§€ë²ˆí˜¸ë¶™ì´ê¸° {
 	
 	static int n;
 	static String[] a;
@@ -21,8 +21,8 @@ public class ´ÜÁö¹øÈ£ºÙÀÌ±â {
 	}
 
 	public static void pro() {
-		//¿ÜºÎ¿¡¼­ µµ´Â for¹®
-		//¸ğµç ÀÌÂ÷¿ø¹è¿­À» ¼øÈ¸ÇÏ¸ç È®ÀÎÇÑ´Ù.
+		//ï¿½ÜºÎ¿ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ forï¿½ï¿½
+		//ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½è¿­ï¿½ï¿½ ï¿½ï¿½È¸ï¿½Ï¸ï¿½ È®ï¿½ï¿½ï¿½Ñ´ï¿½.
 		
 		for(int i=0; i<n; i++) {
 			for(int j=0; j<n; j++) {

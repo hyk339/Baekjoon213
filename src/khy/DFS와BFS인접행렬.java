@@ -7,7 +7,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class DFS¿ÍBFSÀÎÁ¢Çà·Ä {
+public class DFSì™€BFSì¸ì ‘í–‰ë ¬ {
 
 	static int n;
 	static int m;
