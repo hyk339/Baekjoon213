@@ -21,8 +21,6 @@ public class 단지번호붙이기 {
 	}
 
 	public static void pro() {
-		//�ܺο��� ���� for��
-		//��� �������迭�� ��ȸ�ϸ� Ȯ���Ѵ�.
 		
 		for(int i=0; i<n; i++) {
 			for(int j=0; j<n; j++) {
