@@ -22,10 +22,9 @@ public class No11725 {
 	
 	private static void search(int node) {
 		//인접 리스트 노드 탐색
-		//check[node] = true;
-		//루트 노드면 부모에 -1 넣기
 		for(int n:tree.get(node)) {
 			//현재 노드의 부모와 탐색한 노드가 같으면 컨티뉴,
+			//탐색한 노드의 부모가 있으면 컨티뉴
 			if(node==par[n] || par[n]!=0) continue;
 			//부모 배열에 노드 넣어주기
 			par[n] = node;
