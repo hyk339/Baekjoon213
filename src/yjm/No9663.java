@@ -11,7 +11,7 @@ public class No9663 {
 	public static void main(String[] args) throws NumberFormatException, IOException {
 		input();
 		check(1);
-		System.out.println(count);
+		System.out.println(count); 
 	}
 
 	private static boolean isTrue(int row, int i, int c, int selected) {
