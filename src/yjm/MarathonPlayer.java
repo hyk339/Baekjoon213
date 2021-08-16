@@ -7,7 +7,7 @@ public class MarathonPlayer {
 	public static void main(String[] args) {
 		//n의 약수의 합 구하기
 		String[] arr1 = {"leo", "kiki", "eden"};
-		String[] arr2 = {"eden","kiki"}; 
+		String[] arr2 = {"eden","kiki"};
 		
 		MarathonPlayer test = new MarathonPlayer();
 		test.solution(arr1, arr2);
